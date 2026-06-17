@@ -61,7 +61,7 @@ Fav No: 7.0 | Type: <class 'float'> | Memory Address: 140234890
 ## ⚠️ Notes
 
 * The program assumes valid numeric input for age, height, and favorite number.
-* If invalid input is entered, the program may throw an error (unless error handling is added).
+* If invalid input is entered, the program may throw an error (unless error handling is added)
 * Memory addresses may vary each time the program runs.
 
 ---
